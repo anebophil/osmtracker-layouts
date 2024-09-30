@@ -1,0 +1,18 @@
+<layouts>
+   <layout name="root">
+      <row>
+         <button type="tag" label="route latéritique " icon="/check_icons/route_lateritique.png" />
+         <button type="tag" label="route en bon état" icon="/check_icons/route_bon_etat.png" />
+         <button type="tag" label="route en bon état" icon="/check_icons/route_mauvais_etat.png" />
+		 <button type="tag" label="présence de FDS" icon="/check_icons/securite.png" />
+      </row>
+      <row></row>
+      <row></row>
+      <row>
+         <button type="textnote" label="Text note" icon="text.png" />
+      </row>
+      <row></row>
+      <row></row>
+
+   </layout>
+</layouts>
