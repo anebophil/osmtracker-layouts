@@ -1,9 +1,10 @@
 <layouts>
    <layout name="root">
       <row>
-         <button type="tag" label="arrêt sans indication" icon="/bus_route_icons/Junglebus-04.png" />
-         <button type="tag" label="poteau" icon="/bus_route_icons/Junglebus-05.png" />
-         <button type="tag" label="abribus" icon="/bus_route_icons/Junglebus-06.png" />
+         <button type="tag" label="route latéritique " icon="/check_icons/route_lateritique.png" />
+         <button type="tag" label="route en bon état" icon="/check_icons/route_bon_etat.png" />
+         <button type="tag" label="route en bon état" icon="/check_icons/route_mauvais_etat.png" />
+		 <button type="tag" label="présence de FDS" icon="/check_icons/securite.png" />
       </row>
       <row></row>
       <row></row>
