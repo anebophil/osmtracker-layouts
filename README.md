@@ -1,5 +1,5 @@
 # osmtracker-layouts
-This is a repository to host custom layouts for [OSMTracker](https://github.com/labexp/osmtracker-android) about public transport.
+Il s'agit d'un référentiel permettant d'héberger des mises en page personnalisées pour [OSMTracker](https://github.com/labexp/osmtracker-android) à propos des transports publics.
 
 ## Configuration
 
